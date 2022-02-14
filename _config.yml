@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Lisa Steinmann"
+title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lisa Steinmann"
@@ -69,15 +69,12 @@ author:
   location         : "Hamburg, Germany"
   email            : "lisa.steinmann@uni-hamburg.de"
   links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/lsteinmann"
     - label: "Orcid"
       icon: "fab fa-brands fa-orcid"
       url: "https://orcid.org/0000-0002-2215-1243"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://lsteinmann.github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/shablublu/"
 
 # Site Footer
 footer:
@@ -87,10 +84,16 @@ footer:
       url: "https://orcid.org/0000-0002-2215-1243"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://lsteinmann.github.com/"
+      url: "https://github.com/lsteinmann"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/shablublu/"
+    - label: "Academia.edu"
+      icon: "fas fa-solid fa-pen"
+      url: "https://uni-hamburg.academia.edu/LisaSteinmann"
+    - label: "ResearchGate"
+      icon: "fab fa-brands fa-researchgate"
+      url: "https://www.researchgate.net/profile/Lisa-Steinmann-2"
 
 
 include:
@@ -206,3 +209,7 @@ defaults:
       layout: single
       classes: wide
       author_profile: true
+      header:
+        overlay_image: /assets/images/header.png
+#        caption: " test"
+      
