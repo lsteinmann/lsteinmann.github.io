@@ -3,6 +3,13 @@ title: Publications & Presentations
 permalink: /pubps/
 ---
 
+#### 2022
+
+* Ch. Berns -- L. Steinmann, *Milet’te Güncel Araştırmalar: Mikromekandan Kente Bir Bakış* (27.02.2022, [YouTube, arkeolojihaber](https://youtu.be/mRG4QGms61U)). Lecture at the *Büyük Menderes Vadisi Sempozyumu* (Ankara Üniversitesi / Aydın Adnan Menderes Üniversitesi).
+
+* L. Steinmann et. al., Miletus Documentation Manual: Surveying, Forms, Find Processing and iDAI.field 2, DOI: [10.25592/uhhfdm.10029](https://doi.org/10.25592/uhhfdm.10029)
+
+
 #### 2021
 * Ch. Berns -- L. Steinmann, *Milet: Kamusal Mekân Üzerine Güncel Araştırmalar* (18.05.2021, [YouTube, arkeolojihaber](https://youtu.be/QZicj3FHRWU?t=204)). Lecture at the Symposium *İonia’da Yeni Arkeolojik Araştırmalar* (Ege Üniversitesi, Izmir).
 * B. Weissova -- L. Steinmann, *datplot: A New R Package for the Visualization of Date Ranges in Archaeology*, Advances in Archaeological Practice 9, 4, 2021, 288–298, DOI: [10.1017/aap.2021.8](https://doi.org/10.1017/aap.2021.8).
