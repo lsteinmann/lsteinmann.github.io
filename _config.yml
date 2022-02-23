@@ -21,7 +21,7 @@ title                    : ""
 title_separator          : "|"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lisa Steinmann"
-description              : "I am classical archaeologist who often stares at a computer screen."
+description              : "I am a classical archaeologist who often stares at a computer screen."
 url                      : "https://lsteinmann.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lsteinmann/lsteinmann.github.io"
@@ -65,7 +65,7 @@ analytics:
 author:
   name             : "Lisa Steinmann"
   avatar           : "/assets/images/l-st.jpg"
-  bio              : "I am classical archaeologist who often stares at a computer screen."
+  bio              : "I am a classical archaeologist who often stares at a computer screen."
   location         : "Hamburg, Germany"
   email            : "lisa.steinmann@uni-hamburg.de"
   links:
