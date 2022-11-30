@@ -4,7 +4,7 @@ permalink: /pubps/
 ---
 
 #### 2022
-* [Map of Miletus](https://geoserver.dainst.org/maps/5764) (Digital Map and Guide of the City of Miletus)
+* [Map of Miletus](https://geoserver.dainst.org/maps/5764) (Digital Map and Guide of the City of Miletus) (responsible for concept and coordination, with contributions by other members of the excavation especially P. Cardona, see link).
 * L. Steinmann --  P. A. Cardona Villamil, *Getting History into Shape(files): digitizing 130 years of maps*. Lecture at Archaeo-Informatic 2022 (DAI Istanbul / ODTÜ/METÜ), 24.11.2022 in Istanbul.
 * *"Eine zerstörte Burg, die aus Marmor erbaut ist". Der lange Schatten der "Perle Ioniens" und das Nachleben Milets im Mittelalter*, Antike Welt 6/22, 2022, 68--76.
 * *Long-term Urban Development in Miletus: A View from the Microspace of Insula UV/8-9 on Humeitepe*. Lecture at 9. IFEA Arkeoloji Buluşmaları, 10.11.2022 in Istanbul.
