@@ -49,12 +49,12 @@ Thesis: <i>Die geometrische und subgeometrische Epoche im Heraion von Samos: Kon
 
 **2013--2019**
 <div class="entry">
-<i>Milet: Necropolis on Değirmentepe:</i> Participation as archaeologist and excavation technician in an excavation project led by Prof. Dr. Julien Zurbach and Dr. Jan-Marc Henke in collaboration with the Miletus Museum in Balat.<br>
+<i>Milet: Necropolis on Değirmentepe:</i> Participation as archaeologist and excavation technician in an excavation project led by Julien Zurbach and Jan-Marc Henke in collaboration with the Miletus Museum in Balat.<br>
 </div><br>
 
 **2012--2016**
 <div class="entry">
-<i>Samos: Heraion:</i> Participation as archaeologist/student on the excavation and in find processing in the course of a project led by Prof. Dr. Dr. hc. Niemeier of the German Archaeological Institute in Athens.<br>
+<i>Samos: Heraion:</i> Participation as archaeologist/student on the excavation and in find processing in the course of a project led by Wolf-Dietrich Niemeier of the German Archaeological Institute in Athens.<br>
 </div><br>
 
 **2009--2016**
