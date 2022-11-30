@@ -20,9 +20,9 @@ classes: wide
 DFG/ANR-Project "<a href="https://www.kulturwissenschaften.uni-hamburg.de/ka/forschung/lebensformen-megapolis.html">Life Forms in the Megapolis: Miletus in the longue durée</a>" (MegaMil) led by Prof. Dr. Christof Berns and Prof. Dr. Julien Zurbach.
 </div><br>
 
-**2016--2021**
+**2016--2022**
 <div class="entry">
-<i>Dissertation: Das Dionysosheiligtum in der Sakrallandschaft von Milet</i>" at Ruhr-Universität Bochum (until 2020) and Universität Hamburg (since 2020), (completion underway)<br>
+<i>Dissertation: Das Dionysosheiligtum in der Sakrallandschaft von Milet</i>" at Ruhr-Universität Bochum (until 2020) and Universität Hamburg (since 2020), Disputatio held on 29.06.2022 (Hamburg)<br>
 Scholarship of the Gerda Henkel Stiftung between 2018 and 2021, additional financing by the Research School at Ruhr-Universität Bochum. 
 </div><br>
   
