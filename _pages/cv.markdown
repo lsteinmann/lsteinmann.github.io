@@ -17,7 +17,7 @@ classes: wide
 **2021--today**
 <div class="entry">
 <i>Wissenschaftliche Mitarbeiterin / Research Assistant</i>, Universität Hamburg<br>
-DFG/ANR-Project "<a href="https://www.kulturwissenschaften.uni-hamburg.de/ka/forschung/lebensformen-megapolis.html">Life Forms in the Megapolis: Miletus in the longue durée</a>" (MegaMil) led by Prof. Dr. Christof Berns and Prof. Dr. Julien Zurbach.
+DFG/ANR-Project "<a href="https://www.kulturwissenschaften.uni-hamburg.de/ka/forschung/lebensformen-megapolis.html">Life Forms in the Megapolis: Miletus in the longue durée</a>" (MegaMil) led by Christof Berns and Julien Zurbach.
 </div><br>
 
 **2016--2022**
