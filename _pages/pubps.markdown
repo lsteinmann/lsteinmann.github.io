@@ -3,6 +3,12 @@ title: Publications & Presentations
 permalink: /pubps/
 ---
 
+#### 2023
+* [The Miletus Bibliography](https://github.com/lsteinmann/Miletus_Bibliography) (continuously updated)
+* Das Dionysosheiligtum in der Sakrallandschaft von Milet (Dissertation Universität Hamburg 2023)
+* with others, L. Steinmann – S. Huy – F. Sliwka – D. Göçmen – N. Lordoğlu – J. Zurbach – C. Berns, Miletus Documentation Manual: Surveying, Forms, Find Processing and Database Usage, v2.0, DOI: [10.25592/uhhfdm.11389](https://doi.org/10.25592/uhhfdm.11389)
+
+
 #### 2022
 * [Map of Miletus](https://geoserver.dainst.org/maps/5764) (Digital Map and Guide of the City of Miletus) (responsible for concept and coordination, with contributions by other members of the excavation especially P. Cardona, see link).
 * with P. A. Cardona Villamil, *Getting History into Shape(files): digitizing 130 years of maps*. Lecture at Archaeo-Informatic 2022 (DAI Istanbul / ODTÜ/METÜ), 24.11.2022 in Istanbul.
@@ -10,7 +16,7 @@ permalink: /pubps/
 * *Long-term Urban Development in Miletus: A View from the Microspace of Insula UV/8-9 on Humeitepe*. Lecture at 9. IFEA Arkeoloji Buluşmaları, 10.11.2022 in Istanbul.
 * *Miletus, Case Study: The Excavation on the Hilltop of Humeitepe*, Lecture at the Seminaire "Du plan hippodamien à l’espace social: recherches en cours sur la ville de Milet" at [ENS Paris](http://www.archeo.ens.fr/Du-plan-hippodamien-a-l-espace-social-recherches-en-cours-sur-la-ville-de-Milet.html?lang=fr).
 * Ch. Berns -- L. Steinmann, *Milet’te Güncel Araştırmalar: Mikromekandan Kente Bir Bakış* (27.02.2022, [YouTube, arkeolojihaber](https://youtu.be/mRG4QGms61U)). Lecture at the *Büyük Menderes Vadisi Sempozyumu* (Ankara Üniversitesi / Aydın Adnan Menderes Üniversitesi).
-* with others, Miletus Documentation Manual: Surveying, Forms, Find Processing and iDAI.field 2, DOI: [10.25592/uhhfdm.10029](https://doi.org/10.25592/uhhfdm.10029)
+* with others, Miletus Documentation Manual: Surveying, Forms, Find Processing and iDAI.field 2, v1.1 DOI: [10.25592/uhhfdm.10030](https://doi.org/10.25592/uhhfdm.10030)
 
 
 #### 2021
