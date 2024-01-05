@@ -5,7 +5,7 @@ permalink: /pubps/
 
 #### 2023
 * R wie in: Reproduzierbar. Auswertung von Daten aus Field Desktop mit idaifieldR, FDAI 2023, 2023, 1--28, DOI: [10.34780/068b-q6c7](https://doi.org/10.34780/068b-q6c7); [Link to Supplement](https://doi.org/10.34780/8296-sm74)
-* [The Miletus Bibliography](https://github.com/lsteinmann/Miletus_Bibliography) (continuously updated)
+* [The Miletus Bibliography](https://github.com/Miletus-Excavation/Miletus_Bibliography) (continuously updated)
 * Das Dionysosheiligtum in der Sakrallandschaft von Milet (Dissertation Universität Hamburg 2023)
 * with others, L. Steinmann – S. Huy – F. Sliwka – D. Göçmen – N. Lordoğlu – J. Zurbach – C. Berns, Miletus Documentation Manual: Surveying, Forms, Find Processing and Database Usage, v2.0, DOI: [10.25592/uhhfdm.11389](https://doi.org/10.25592/uhhfdm.11389)
 
